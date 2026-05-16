@@ -40,7 +40,7 @@ export default function Hero() {
         playsInline
         poster="/assets/image-ki-1280x630.png"
         aria-hidden="true"
-        className="absolute inset-0 w-full h-full object-cover opacity-30"
+        className="absolute inset-0 w-full h-full object-cover opacity-55"
       >
         <source src="/assets/mcc-animation.mp4" type="video/mp4" />
       </video>
@@ -48,7 +48,7 @@ export default function Hero() {
       {/* Gradient overlay */}
       <div
         aria-hidden="true"
-        className="absolute inset-0 bg-gradient-to-br from-slate-900/95 via-slate-900/80 to-slate-800/70"
+        className="absolute inset-0 bg-gradient-to-br from-slate-900/75 via-slate-900/55 to-slate-800/40"
       />
 
       {/* Content */}
