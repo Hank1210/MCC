@@ -1,0 +1,10 @@
+# Dependencies
+node_modules/
+
+# Next.js
+.next/
+
+# Local tooling artifacts
+.claude/
+.playwright-cli/
+.agents/
